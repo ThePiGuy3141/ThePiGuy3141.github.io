@@ -30,14 +30,14 @@ html, body {
   font-size: 1em;
   line-height: 1.55;
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 100%;
   padding-top: 10px;
   width: 100%;
 }
 
 .offline .runner-container {
   height: 150px;
-  max-width: 600px;
+  max-width: 100%;
   overflow: hidden;
   position: absolute;
   top: 10px;
@@ -46,7 +46,7 @@ html, body {
 
 .offline .runner-canvas {
   height: 15px;
-  max-width: 600px;
+  max-width: 100%;
   opacity: 1;
   overflow: hidden;
   position: absolute;
