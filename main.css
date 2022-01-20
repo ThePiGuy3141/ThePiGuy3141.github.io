@@ -45,14 +45,14 @@ body {
 .text-logo {
 	font-family: var(--font-logo);
 	font-weight: bold;
-	font-size: 75px;
+	font-size: 60%;
 	padding: 10%;
 	padding-bottom: 0%;
 }
 .text-sublogo {
 	font-family: var(--font-logo);
 	font-weight: bold;
-	font-size: 40px;
+	font-size: 35%;
 	padding: 10%;
 	padding-top: 0%;
 }
