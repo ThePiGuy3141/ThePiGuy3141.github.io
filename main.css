@@ -45,14 +45,14 @@ body {
 .text-logo {
 	font-family: var(--font-logo);
 	font-weight: bold;
-	font-size: 60%;
+	font-size: 200%;
 	padding: 10%;
 	padding-bottom: 0%;
 }
 .text-sublogo {
 	font-family: var(--font-logo);
 	font-weight: bold;
-	font-size: 35%;
+	font-size: 120%;
 	padding: 10%;
 	padding-top: 0%;
 }
@@ -69,7 +69,7 @@ body {
 	padding: 10px;
 	background-color: var(--background-light);
 	font-family: var(--font-default);
-	font-size: 15px;
+	font-size: 80%;
 	transition: all 200ms linear;
 }
 .connection:hover {
