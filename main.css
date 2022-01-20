@@ -45,13 +45,13 @@ body {
 .text-logo {
 	font-family: var(--font-logo);
 	font-weight: bold;
-	font-size: 100px;
+	font-size: 75px;
 	padding: 10%;
 }
 .text-sublogo {
 	font-family: var(--font-logo);
 	font-weight: bold;
-	font-size: 60px;
+	font-size: 30px;
 	padding: 10%;
 }
 .connections {
