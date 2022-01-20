@@ -21,7 +21,7 @@ body {
 }
 
 .main-content {
-	animation: rise-up 1500ms ease-in-out;
+	animation: rise-up 1000ms ease-in-out;
 }
 @keyframes rise-up {
     0% {
