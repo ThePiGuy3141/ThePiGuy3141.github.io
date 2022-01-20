@@ -47,12 +47,14 @@ body {
 	font-weight: bold;
 	font-size: 75px;
 	padding: 10%;
+	padding-bottom: 0%;
 }
 .text-sublogo {
 	font-family: var(--font-logo);
 	font-weight: bold;
 	font-size: 30px;
 	padding: 10%;
+	padding-top: 0%;
 }
 .connections {
 	position: relative;
