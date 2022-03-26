@@ -89,3 +89,18 @@ body {
 	color: inherit;
 	text-decoration: none;
 }
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	text-align: center;
+}
+
+button {
+	background-color: transparent;
+	color: white;
+	border-color: transparent;
+}
